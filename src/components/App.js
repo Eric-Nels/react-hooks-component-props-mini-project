@@ -12,7 +12,6 @@ function App() {
       <About image= {blogData.image} about= {blogData.about}/>
       <ArticleList posts={blogData.posts}/>
     </div>
-    
   );
 }
 
